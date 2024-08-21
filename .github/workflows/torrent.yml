@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "Live portrait"
+  comment: "An AI model for creating deepfakes"
+  url: "https://huggingface.co/cleardusk/LivePortrait-Windows/resolve/main/LivePortrait-Windows-v20240806.zip?download=true"
+  file_name: "LivePortrait.zip"
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
