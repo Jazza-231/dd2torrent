@@ -7,7 +7,7 @@ on:
 env:
   name: "Live portrait"
   comment: "An AI model for creating deep fakes"
-  url: "https://huggingface.co/cleardusk/LivePortrait-Windows/resolve/main/LivePortrait-Windows-v20240806.zip?download=true"
+  url: "https://www.dropbox.com/scl/fi/3sbfya10oejxton5t19l2/Never-gonna-give-you-up.mp4?rlkey=d2mnm8wm2qzequgui997e8wi9&st=oubgllia&dl=1"
   file_name: "LivePortrait.zip"
   piece_size: 22 # Check the README.md for recommended piece size
       
