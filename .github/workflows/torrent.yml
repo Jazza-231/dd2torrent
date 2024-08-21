@@ -6,9 +6,9 @@ on:
       
 env:
   name: "DD to Torrent"
-  comment: "An AI model for creating deep fakes"
-  url: "https://www.dropbox.com/scl/fi/3sbfya10oejxton5t19l2/Never-gonna-give-you-up.mp4?rlkey=d2mnm8wm2qzequgui997e8wi9&st=oubgllia&dl=1"
-  file_name: "DD to Torrent.mp4"
+  comment: "Direct Download to Torrent file"
+  url: "https://huggingface.co/cleardusk/LivePortrait-Windows/resolve/main/LivePortrait-Windows-v20240806.zip?download=true"
+  file_name: "DD to Torrent.zip"
   piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
