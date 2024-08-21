@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Live portrait"
+  name: "DD to Torrent"
   comment: "An AI model for creating deep fakes"
   url: "https://www.dropbox.com/scl/fi/3sbfya10oejxton5t19l2/Never-gonna-give-you-up.mp4?rlkey=d2mnm8wm2qzequgui997e8wi9&st=oubgllia&dl=1"
-  file_name: "LivePortrait.zip"
+  file_name: "DD to Torrent.mp4"
   piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
